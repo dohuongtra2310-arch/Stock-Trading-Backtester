@@ -22,6 +22,6 @@ Buy & Hold Return: ~23.77%
 Insight: The strategy demonstrated significant Alpha, proving the effectiveness of trend-following in volatile markets.
 
 📂 How to Run
-Clone the repository.
-Install dependencies: pip install yfinance pandas plotly.
-Run the script in a Python environment or Google Colab.
+- Clone the repository.
+- Install dependencies: pip install yfinance pandas plotly.
+- Run the script in a Python environment or Google Colab.
