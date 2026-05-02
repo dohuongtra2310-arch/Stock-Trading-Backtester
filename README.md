@@ -16,10 +16,10 @@ This project is a Python-based financial analysis tool designed to backtest a Si
 4. Performance Analytics: Compares the strategy's total return against a "Buy & Hold" benchmark to calculate Alpha (excess return).
 
 📈 Results & Analysis
-Using IVV.AX (S&P 500) as a test case for a 2-year period:
-Strategy Return: ~29.80%
-Buy & Hold Return: ~23.77%
-Insight: The strategy demonstrated significant Alpha, proving the effectiveness of trend-following in volatile markets.
+- Using IVV.AX (S&P 500) as a test case for a 2-year period:
+- Strategy Return: ~29.80%
+- Buy & Hold Return: ~23.77%
+- Insight: The strategy demonstrated significant Alpha, proving the effectiveness of trend-following in volatile markets.
 
 📂 How to Run
 - Clone the repository.
