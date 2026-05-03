@@ -1,4 +1,5 @@
 Algorithmic Trading Backtester: SMA Crossover Strategy
+
 📌 Project Overview
 This project is a Python-based financial analysis tool designed to backtest a Simple Moving Average (SMA) Crossover strategy. It automates the process of fetching historical stock data, calculating technical indicators, simulating trades, and benchmarking performance against the traditional "Buy & Hold" approach.
 
